@@ -1,0 +1,60 @@
+{
+  "event_id": "86a3762d-f138-4ce4-afcb-06f5329a2ad0",
+  "event_name": "dish.update",
+  "created_at": "2022-05-09T14:39:32.924113+02:00",
+  "version": "v2",
+  "brand_id": 34,
+  "restaurant_id": 4491,
+  "data": {
+    "dishes": [
+      {
+        "id": 911795,
+        "remote_id": null,
+        "id_restaurant": 119,
+        "sku": null,
+        "name": "Burger goat",
+        "description": null,
+        "image": "",
+        "thumb": "",
+        "price": 800,
+        "price_togo": null,
+        "price_delivery": null,
+        "happy_price": null,
+        "cost_price": null,
+        "tva": 550,
+        "tvat": null,
+        "tvad": null,
+        "tax": 550,
+        "tax_takeaway": null,
+        "tax_delivery": null,
+        "tags": [
+          129359
+        ],
+        "options": [],
+        "id_fabrication_place": 0,
+        "fab_name": null,
+        "color": null,
+        "loyalty_points": 0,
+        "loyalty_points_discount": null,
+        "earn_loyalty": 0,
+        "price_to_define": false,
+        "weight_for_price": null,
+        "disable": true,
+        "disable_takeaway": false,
+        "disable_delivery": false,
+        "disable_before": null,
+        "disable_after": null,
+        "o": 0,
+        "zc_only": false,
+        "meta": {
+          "test": "",
+          "test_2": "",
+          "test_meta": "",
+          "test_meta_case": 0,
+          "azeaze": 0,
+          "degre_d_alcool": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "event_id": "f7917a2d-fd59-4f3c-92be-1c259bc1ba9d",
+  "event_name": "option.update",
+  "created_at": "2022-06-16T17:38:17.917664+02:00",
+  "version": "v2",
+  "brand_id": 34,
+  "restaurant_id": 4491,
+  "data": {
+    "options": [
+      {
+        "id": 330914,
+        "remote_id": null,
+        "name": "Accompagnement.",
+        "values": [
+          {
+            "id": 32935,
+            "remote_id": null,
+            "name": "SANCE SALEE",
+            "description": null,
+            "image": "https://media.zelty.fr/images/34/49/e3441.png",
+            "price": 0
+          },
+          {
+            "id": 32934,
+            "remote_id": null,
+            "name": "SANCE SALEE",
+            "description": null,
+            "image": "https://media.zelty.fr/images/34/49/e3441.png",
+            "price": 0
+          },
+
+        ],
+        "disable": true,
+        "zc_only": false,
+        "donotpresent": false,
+        "meta": {},
+        "pick_same_value": true,
+        "nb": 6,
+        "mandatory": false
+      }
+    ]
+  }
+}
+

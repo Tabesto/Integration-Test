@@ -1,0 +1,41 @@
+{
+  "event_id": "260aa31b-1ff0-4ec1-8a7c-ac61629ca389",
+  "event_name": "menu.update",
+  "created_at": "2022-05-09T15:45:40.582872+02:00",
+  "version": "v2",
+  "brand_id": 34,
+  "restaurant_id": 4491,
+  "data": {
+    "menus": [
+      {
+        "id": 40567,
+        "remote_id": null,
+        "name": "Menu test",
+        "description": null,
+        "image": "",
+        "thumb": "",
+        "price": 500,
+        "price_togo": null,
+        "price_delivery": null,
+        "sup": 0,
+        "tags": [
+          129359
+        ],
+        "parts": [],
+        "enable_hours": null,
+        "loyalty_points": 0,
+        "earn_loyalty": 0,
+        "price_to_define": false,
+        "loyalty_points_discount": null,
+        "disable": true,
+        "disable_takeaway": false,
+        "disable_delivery": false,
+        "disable_before": null,
+        "disable_after": null,
+        "o": 0,
+        "zc_only": false,
+        "meta": {}
+      }
+    ]
+  }
+}
